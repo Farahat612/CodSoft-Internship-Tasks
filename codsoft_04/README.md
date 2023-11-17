@@ -6,6 +6,12 @@ This project implements a Rock-Paper-Scissors game in Python, offering both a gr
 ## Scenario:
 Ideal for situations where users want to play a simple yet entertaining game, the Rock-Paper-Scissors project provides an interactive gaming experience. Users can make choices, see the computer's move, and discover the game outcome.
 
+## Demo
+<div align="center">
+  <video width="100%" src="https://github.com/Farahat612/CodSoft-Internship-Tasks/assets/67427124/db4f7c8c-c223-46d0-af3f-27bce2a8999d">
+</div>
+
+
 ## Features:
 - GUI version with Tkinter interface.
 - Console version for command-line gaming.
