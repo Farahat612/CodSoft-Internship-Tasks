@@ -6,6 +6,12 @@ This project implements a Contact Book in Python, providing users with the abili
 ## Scenario:
 Ideal for scenarios where users need to organize and manage contact information effectively, the Contact Book project offers a user-friendly solution. Users can perform various actions related to their contacts, facilitating seamless interaction.
 
+## Demo
+<div align="center">
+  <video width="100%" src="https://github.com/Farahat612/CodSoft-Internship-Tasks/assets/67427124/553ed349-4ed9-406e-8431-71f86be6201c">
+</div>
+
+
 ## Features:
 - Console and GUI versions for versatile use.
 - Contact information storage with name, phone number, email, and address.
