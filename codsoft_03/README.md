@@ -6,6 +6,16 @@ This project implements a Password Generator in Python, offering both a graphica
 ## Scenario:
 In scenarios where users require a secure and randomized password, this application provides a quick and easy solution. Users can choose the desired length of the password, and the application generates a password using a combination of random characters.
 
+## Demo
+<div align="center">
+  <video width="100%" src="https://github.com/Farahat612/CodSoft-Internship-Tasks/assets/67427124/9a385d3c-c8aa-4485-b3ab-245bacf34780">
+</div>
+
+
+
+
+
+
 ## Features:
 - GUI version with Tkinter interface.
 - Console version for command-line usage.
